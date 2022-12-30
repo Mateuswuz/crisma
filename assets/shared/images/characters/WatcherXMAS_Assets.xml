@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WatcherXMAS_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WatcherXMAS_Down0000" x="0" y="0" width="727" height="673" frameX="0" frameY="-34" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0001" x="0" y="0" width="727" height="673" frameX="0" frameY="-34" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0002" x="743" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0003" x="743" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0004" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0005" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0006" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0007" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0008" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0009" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0010" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0011" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0012" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0013" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0014" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Down0015" x="1504" y="0" width="745" height="707" frameX="-6" frameY="0" frameWidth="751" frameHeight="707"/>
+	<SubTexture name="WatcherXMAS_Idle0000" x="2265" y="0" width="541" height="698" frameX="0" frameY="-3" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0001" x="2265" y="0" width="541" height="698" frameX="0" frameY="-3" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0002" x="2822" y="0" width="544" height="701" frameX="0" frameY="0" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0003" x="3382" y="0" width="536" height="701" frameX="-8" frameY="0" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0004" x="0" y="723" width="538" height="701" frameX="-8" frameY="0" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0005" x="0" y="723" width="538" height="701" frameX="-8" frameY="0" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0006" x="554" y="723" width="546" height="700" frameX="0" frameY="-1" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0007" x="554" y="723" width="546" height="700" frameX="0" frameY="-1" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0008" x="1116" y="723" width="547" height="699" frameX="0" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0009" x="1679" y="723" width="539" height="699" frameX="-8" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0010" x="1679" y="723" width="539" height="699" frameX="-8" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0011" x="1679" y="723" width="539" height="699" frameX="-8" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0012" x="1116" y="723" width="547" height="699" frameX="0" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0013" x="1116" y="723" width="547" height="699" frameX="0" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0014" x="1116" y="723" width="547" height="699" frameX="0" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Idle0015" x="1116" y="723" width="547" height="699" frameX="0" frameY="-2" frameWidth="547" frameHeight="701"/>
+	<SubTexture name="WatcherXMAS_Left0000" x="2234" y="723" width="698" height="669" frameX="0" frameY="-4" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0001" x="2234" y="723" width="698" height="669" frameX="0" frameY="-4" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0002" x="2948" y="723" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0003" x="2948" y="723" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0004" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0005" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0006" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0007" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0008" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0009" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0010" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0011" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0012" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0013" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0014" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Left0015" x="0" y="1440" width="706" height="673" frameX="-11" frameY="0" frameWidth="717" frameHeight="673"/>
+	<SubTexture name="WatcherXMAS_Right0000" x="722" y="1440" width="537" height="651" frameX="-32" frameY="-9" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0001" x="722" y="1440" width="537" height="651" frameX="-32" frameY="-9" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0002" x="1275" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0003" x="1275" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0004" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0005" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0006" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0007" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0008" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0009" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0010" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0011" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0012" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0013" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0014" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Right0015" x="1846" y="1440" width="555" height="660" frameX="0" frameY="0" frameWidth="569" frameHeight="660"/>
+	<SubTexture name="WatcherXMAS_Up0000" x="2417" y="1440" width="556" height="776" frameX="-37" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0001" x="2417" y="1440" width="556" height="776" frameX="-37" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0002" x="2989" y="1440" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0003" x="2989" y="1440" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0004" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0005" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0006" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0007" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0008" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0009" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0010" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0011" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0012" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0013" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0014" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="WatcherXMAS_Up0015" x="0" y="2232" width="585" height="776" frameX="0" frameY="0" frameWidth="593" frameHeight="776"/>
+	<SubTexture name="thingy0000" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0001" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0002" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0003" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0004" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0005" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0006" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0007" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0008" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0009" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0010" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0011" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0012" x="601" y="2232" width="795" height="330"/>
+	<SubTexture name="thingy0013" x="601" y="2232" width="795" height="330"/>
+</TextureAtlas>
