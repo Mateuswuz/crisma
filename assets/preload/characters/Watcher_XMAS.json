@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WatcherXMAS_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WatcherXMAS_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WatcherXMAS_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WatcherXMAS_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-34
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WatcherXMAS_Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WatcherXMAS_Assets",
+	"position": [
+		-170,
+		50
+	],
+	"healthicon": "watcher",
+	"flip_x": true,
+	"healthbar_colors": [
+		156,
+		11,
+		57
+	],
+	"camera_position": [
+		90,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

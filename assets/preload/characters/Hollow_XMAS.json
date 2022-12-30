@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "HollowXMAS_Idle"
+		},
+		{
+			"offsets": [
+				99,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "HollowXMAS_Right"
+		},
+		{
+			"offsets": [
+				39,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "HollowXMAS_Down"
+		},
+		{
+			"offsets": [
+				81,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HollowXMAS_Up"
+		},
+		{
+			"offsets": [
+				268,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "HollowXMAS_Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hollow_XMAS_Assets",
+	"position": [
+		-50,
+		30
+	],
+	"healthicon": "hollow",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		38,
+		225
+	],
+	"camera_position": [
+		40,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
