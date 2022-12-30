@@ -1,0 +1,32 @@
+{
+	"storyName": "merry xmas! enjoy the demo :)",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "xmashogs",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"deck-the-hogs",
+			"wacky",
+			[
+				240,
+				166,
+				245
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "ChristmasHogs"
+}
